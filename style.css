@@ -11,7 +11,6 @@ body {
   color: #333;
 }
 
-/* NAVBAR */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -35,7 +34,7 @@ body {
   color: #00bcd4;
 }
 
-/* SECTIONS */
+
 section {
   padding: 60px 30px;
   max-width: 1000px;
@@ -45,7 +44,7 @@ section {
   border-radius: 8px;
 }
 
-/* HOME SECTION */
+
 #home {
   text-align: center;
 }
@@ -60,12 +59,12 @@ section {
   margin-bottom: 20px;
 }
 
-/* ABOUT */
+
 #about p {
   margin-bottom: 15px;
 }
 
-/* WORK / PROJECTS */
+
 #work h3 {
   margin-top: 20px;
   color: #00bcd4;
@@ -75,7 +74,7 @@ section {
   margin-bottom: 10px;
 }
 
-/* RESUME */
+
 #resume ul {
   margin-left: 20px;
   margin-bottom: 20px;
@@ -86,12 +85,12 @@ section {
   color: #00bcd4;
 }
 
-/* CONTACT */
+
 #Contact p {
   margin-bottom: 10px;
 }
 
-/* FOOTER */
+
 footer {
   text-align: center;
   padding: 20px;
@@ -100,7 +99,7 @@ footer {
   margin-top: 20px;
 }
 
-/* RESPONSIVE */
+
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
